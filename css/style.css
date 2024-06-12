@@ -14,3 +14,12 @@ h1 {
     width: 95%;
     max-width: 400px;
 }
+
+.homebg {
+    background: #fff url("../img/cabecalho.jpg") no-repeat center center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 300px;
+}
